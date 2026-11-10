@@ -31,8 +31,7 @@ public class Main {
         Lembrete lembrete = new Lembrete(
                 new Date(),
                 "Estudar para BD2",
-                "Estudar para BD2, considerando os slides 1 até 3. Fazer as práticas 1 e 2",
-                0
+                "Estudar para BD2, considerando os slides 1 até 3. Fazer as práticas 1 e 2"                
         );
 
         usuario.getLembretes().add(lembrete);
