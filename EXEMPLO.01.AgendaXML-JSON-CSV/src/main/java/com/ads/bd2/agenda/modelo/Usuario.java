@@ -20,7 +20,7 @@ public class Usuario {
         this.nome = nome;
         this.dataNascimento = dataNascimento;
         this.login = login;
-        this.senha = senh
+        this.senha = senha;
         this.email = email;
         this.lembretes = new ArrayList<>();
     }
